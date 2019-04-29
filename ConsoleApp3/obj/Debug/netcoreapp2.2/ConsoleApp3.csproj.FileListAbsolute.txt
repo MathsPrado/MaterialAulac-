@@ -1,0 +1,11 @@
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.deps.json
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.runtimeconfig.json
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.runtimeconfig.dev.json
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.dll
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.pdb
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.csprojResolveAssemblyReference.cache
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.csproj.CoreCompileInputs.cache
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.AssemblyInfoInputs.cache
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.AssemblyInfo.cs
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.dll
+c:\users\matheus prado\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.pdb
